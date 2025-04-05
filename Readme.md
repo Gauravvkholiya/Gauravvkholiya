@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://gauravvkholiya.github.io/Gaurav-Portfolio/](https://gauravvkholiya.github.io/Gaurav-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://gauravvportfolio.netlify.app/](https://gauravvportfolio.netlify.app/)
 
 - 📫 How to reach me **gauravkholiya817@gmail.com**
 
